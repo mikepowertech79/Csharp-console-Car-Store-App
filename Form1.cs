@@ -15,6 +15,8 @@ namespace Csharp_console_Car_Store_App
         public Form1()
         {
             InitializeComponent();
+
+            MessageBox.Show("Start without debugging: press Ctrl + F5, otherwise console would not have any output");
         }
 
 
@@ -44,6 +46,8 @@ namespace Csharp_console_Car_Store_App
 
         private void button1_Click(object sender, EventArgs e)
         {
+
+            MessageBox.Show("Start without debugging: press Ctrl + F5, otherwise console would not have any output");
             //inside the Console method 
             consondeb();
         }
