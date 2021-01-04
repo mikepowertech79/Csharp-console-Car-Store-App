@@ -21,7 +21,7 @@ namespace Csharp_console_Car_Store_App
         // Car store app source: https://www.youtube.com/watch?v=P0rOJz8epfg&list=PLhPyEFL5u-i3CoTQC9wPhB9uECUxTxkiu
 
         //=========================================================================================================================
-        //Source: Console.WriteLine does not show up in Output window https://stackoverflow.com/questions/2669463/console-writeline-does-not-show-up-in-output-window     Just use Ctrl + F5
+        //Source: Console.WriteLine does not show up in Output window ok https://stackoverflow.com/questions/2669463/console-writeline-does-not-show-up-in-output-window     Just use Ctrl + F5
 
 
         // Console in Windows Forms https://zombievdk.clan.su/news/urok_7_console_v_proekte_windows_forms/2016-07-07-33
