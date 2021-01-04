@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp console Car Store App", "Csharp console Car Store App.csproj", "{07188CB4-5A02-4C57-AE18-7D1027CEE86D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07188CB4-5A02-4C57-AE18-7D1027CEE86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07188CB4-5A02-4C57-AE18-7D1027CEE86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07188CB4-5A02-4C57-AE18-7D1027CEE86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07188CB4-5A02-4C57-AE18-7D1027CEE86D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4A97D28-172A-41B3-A061-70A720726A17}
+	EndGlobalSection
+EndGlobal
